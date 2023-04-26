@@ -582,10 +582,10 @@ input#message::placeholder {
 
 
 #submitwalakura {
+display: flex;
 
- 
-  height: 40px;
-  width: 100px;
+  height: 30px;
+  width: 70px;
   border-radius: 9px;
   border: 1px solid #0022ff;
   background: #0022ff;
