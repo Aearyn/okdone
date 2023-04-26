@@ -593,3 +593,13 @@ display: flex;
 
 }
 
+
+#shayan{
+
+  height: 25px;
+    width: 60px;
+    border-radius: 7px;
+    border: 1px solid #0022ff;
+    background: #0022ff;
+}
+
