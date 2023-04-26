@@ -71,14 +71,7 @@ body.dark-theme{
 }
 
 /*========== Button Dark/Light ==========*/
-.change-theme{
-  position: absolute;
-  right: 1rem;
-  top: 1.8rem;
-  color: var(--text-color);
-  font-size: 1rem;
-  cursor: pointer;
-}
+
 
 body{
   margin: var(--header-height) 0 0 0;
@@ -204,16 +197,6 @@ img{
 .nav__toggle{
   font-size: 1.3rem;
   cursor: pointer;
-}
-
-/* Show menu */
-.show-menu{
-  top: var(--header-height);
-}
-
-/* Active menu */
-.active-link{
-  color: var(--first-color);
 }
 
 
@@ -595,3 +578,20 @@ input#message::placeholder {
 
 
 }
+
+
+
+#submitwalakura {
+
+ 
+  height: 40px;
+  width: 100px;
+  border-radius: 9px;
+  border: 1px solid #0022ff;
+  background: #0022ff;
+
+
+}
+
+
+
